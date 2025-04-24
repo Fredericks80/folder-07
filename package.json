@@ -1,0 +1,16 @@
+{
+  "name": "07",
+  "version": "1.0.0",
+  "main": "bmiKalkulator.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bmiKalkulator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
